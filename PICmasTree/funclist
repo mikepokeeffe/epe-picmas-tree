@@ -1,0 +1,16 @@
+_usleep: CODE, 71188 0 34
+___awdiv: CODE, 70924 0 164
+_Font5x7: MEDIUMCONST, 64973 0 480
+__stringdata: MEDIUMCONST, 65463 0 72
+_dpowers: MEDIUMCONST, 65453 0 10
+_main: CODE, 65536 0 4756
+_timer0Init: CODE, 71288 0 6
+_InterruptHandler: CODE, 8 0 142
+__initialization: CODE, 71088 0 56
+_handle_int_adc: CODE, 70618 0 306
+_ReadADC: CODE, 71278 0 10
+_timer1Init: CODE, 71254 0 24
+_delayms: CODE, 71222 0 32
+_LEDBLINK: CODE, 70292 0 326
+___wmul: CODE, 71150 0 38
+Total: 6456
